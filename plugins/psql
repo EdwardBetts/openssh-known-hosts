@@ -4,7 +4,7 @@
 #
 # uses psql to download a TABLE (or VIEW) of the form:
 # CREATE TABLE known_hosts (
-#	namelist	text, # comma seperated
+#	namelist	text, # comma separated
 #	type		text,
 #	key		text
 # );
